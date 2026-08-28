@@ -3,7 +3,7 @@ botao.addEventListener("click", botaoclicado);
 
 function botaoclicado() {
     let texto = botao.queryselector("span");
-    texto. textContent++;
+    texto.textContent++;
 }
 
 
